@@ -5,4 +5,4 @@ This is simple launching soon page.
 
 Here's the screenshot:
 
-![Screenshot](images/Screenshot.png)
+![Screenshot](images/Screenshot.jpg)
